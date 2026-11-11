@@ -53,14 +53,6 @@ Docs/      Original project report
 
 The report contains circuit diagrams and a code section. No separate, runnable source code was supplied for this repository.
 
-## Team
-
-- Madhav Shaji
-- Darsi Amit
-- Samaranjay Singh
-- Mikhail Abraham
-- V Raj Narayanan
-
 **Project guide:** Prof. Dr. Mohan Allam, VIT-AP University
 
 ## Skills demonstrated
